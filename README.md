@@ -1,4 +1,4 @@
-# Breakout! Game
+## Breakout Game
 
 This is a breakout game where you control a paddle with the arrow keys to bounce a ball and break bricks. The game is built using the HTML5 canvas element and API.
 
@@ -35,7 +35,7 @@ To get started with the Breakout! Game, follow these steps:
 
 ## Demo
 
-You can see a live demo of the Breakout! Game [here](https://your-demo-link.com).
+You can see a live demo of the Breakout! Game [here](https://breakout-game-html5.netlify.app).
 
 ## Contributing
 
